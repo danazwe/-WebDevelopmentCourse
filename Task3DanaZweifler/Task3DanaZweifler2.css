@@ -1,0 +1,32 @@
+body {
+    direction: rtl;
+}
+
+#container {
+    text-align: center;
+    background-color: dodgerblue;
+    padding: 200px 50px 200px 50px;
+    border-style: dashed;
+    border-color: black;
+    margin-top:30px;
+}
+
+h1 {
+    font-size: 40pt;
+    margin:30px 50px;
+    text-decoration:underline;
+}
+
+h2{
+    margin:20px 20px;
+}
+p {
+    color: black;
+}
+
+a:hover {
+    color: white;
+}
+   
+}
+    
